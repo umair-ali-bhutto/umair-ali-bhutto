@@ -1,6 +1,6 @@
+# About Umair Ali Bhutto
 - 👋 Hi, I’m @umair-ali-bhutto
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning mobile app development
 - 📫 How to reach me ***[email](umair2101f@aptechgdn.net)***
 
 <!---
